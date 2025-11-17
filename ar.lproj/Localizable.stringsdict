@@ -9,21 +9,21 @@
       <key>items</key>
       <dict>
         <key>zero</key>
-        <string>%d items</string>
+        <string>لا توجد عناصر</string>
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>%d item</string>
+        <string>عنصر واحد</string>
         <key>two</key>
-        <string>%d items</string>
+        <string>عنصران</string>
         <key>few</key>
-        <string>%d items</string>
+        <string>%d عناصر</string>
         <key>many</key>
-        <string>%d items</string>
+        <string>%d عنصرًا</string>
         <key>other</key>
-        <string>%d items</string>
+        <string>%d عنصر</string>
       </dict>
     </dict>
   </dict>
