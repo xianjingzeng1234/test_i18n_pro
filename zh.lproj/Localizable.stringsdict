@@ -13,7 +13,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>%d items</string>
+        <string>%d 项。</string>
       </dict>
     </dict>
   </dict>
